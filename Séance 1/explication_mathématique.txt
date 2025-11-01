@@ -1,0 +1,5 @@
+// Vous trouvez ici le lien notion pour des détails sur matplotlib en 3D et la convexité de log-loss :
+
+https://www.notion.so/Classification-binaire-29e0134563748073a9f1e7242aa7f4f9?source=copy_link
+
+
